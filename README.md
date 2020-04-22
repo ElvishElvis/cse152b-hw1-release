@@ -48,8 +48,8 @@ On the ``ieng6.ucsd.edu`` server, the datasets are located at
     - Change the dataset path in jupyter notebooks to your paths
 
 ## 3. How to run
-### Launch Jupyter Notebook and dind the blocks for each question
-
+### Launch Jupyter Notebook and find the blocks for each question
+`command/ctrl + enter` to run a command.
 ### Options
 For Q1: One toggle ``if_vis = True/False`` allows you to enable/disable the visualization. Disabling the visualization will make the for loop run significantly faster.
 
