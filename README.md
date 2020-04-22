@@ -30,6 +30,7 @@
 - You will be provided with a URL that you can open locally:
     ![](demo_jupyter.png)
     - Click on the link. Then natigate to the jupyter notebook for a question which you are going to git clone as follows
+- You can also launch the notebook from the [datahub.ucsd.edu](datahub.ucsd.edu) portal.
 
     
 ### 2. Pull the repo and install dependencies
@@ -67,9 +68,6 @@ Or from within server if your local machine has a fixed address or IP:
 
 ``scp -r {REMOTE PATH TO THE vis FOLDER} <USERNAME>@<LOCAL ADDRESS>:{YOUR LOCAL PATH}``
 
-### Q4: Optical Flow - Working folder: `./opticalFlow`
-
-
 ## 4. [Extra] How to run training sessions
 
 ### 1. Set up the environment
@@ -86,10 +84,9 @@ Or from within server if your local machine has a fixed address or IP:
     - For more TMUX usages please refer to online tutorials like [https://linuxize.com/post/getting-started-with-tmux/](https://linuxize.com/post/getting-started-with-tmux/)
 
 -  Launch your pod
-    - `launch-scipy-ml-gpu.sh`
 
 #### [Option 2] On your own server
 Just launch TMUX.
 
 ### 2. Start training
-Now you can create conda env and do your training in there following Section 1.1
+Now you can create conda env and do your training in there.
