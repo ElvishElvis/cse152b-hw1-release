@@ -45,12 +45,11 @@ On the ``ieng6.ucsd.edu`` server, the datasets are located at
 - Q1: SfM
     - `/datasets/cse152-252-sp20-public/dataset_SfM`
     - Change the dataset path in jupyter notebooks to your paths
-- Q?
 
 ## 3. How to run
 ### Q1: SfM - Working folder: `./pyviso`
 #### Launch Jupyter Notebook
-There are 3 `*.ipynb` jupyter notebook files in  `pyviso/`. 
+Find the blocks for the Q1
 
 #### Options
 One toggle ``if_vis = True/False`` allows you to enable/disable the visualization. Disabling the visualization will make the for loop run significantly faster.
