@@ -48,15 +48,13 @@ On the ``ieng6.ucsd.edu`` server, the datasets are located at
     - Change the dataset path in jupyter notebooks to your paths
 
 ## 3. How to run
-### Q1: SfM - Working folder: `./pyviso`
-#### Launch Jupyter Notebook
-Find the blocks for the Q1
+### Launch Jupyter Notebook and dind the blocks for each question
 
-#### Options
-One toggle ``if_vis = True/False`` allows you to enable/disable the visualization. Disabling the visualization will make the for loop run significantly faster.
+### Options
+For Q1: One toggle ``if_vis = True/False`` allows you to enable/disable the visualization. Disabling the visualization will make the for loop run significantly faster.
 
-#### Output
-The errors are printed and the visualizations are saved at ``vis/``. The images should look like:
+### Output
+For Q1: The errors are printed and the visualizations are saved at ``vis/``. The images should look like:
 ![](demo.png)
 To fetch the files you can use commands like `scp` to transfer files from the cluster to your local machine:
 
