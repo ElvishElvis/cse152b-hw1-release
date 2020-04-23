@@ -1,5 +1,11 @@
 # CSE152B HW1
-The homework is in the Jupyter Notebook ``hw1-CSE152B.ipynb``.
+
+## 1. Homework instructions
+
+- Clone this repository
+    - ``git clone https://github.com/Jerrypiglet/cse152b-hw1-release.git``
+- The homework is in the Jupyter Notebook ``hw1-CSE152B.ipynb``.
+- Follow the README (this file) for installation, data and compute instructions.
 
 ## 1. Installation instructions
 ### 1. Set up the environment
