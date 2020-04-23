@@ -35,7 +35,8 @@ The homework is in the Jupyter Notebook ``hw1-CSE152B.ipynb``.
 
     
 ### 2. Pull the repo and install dependencies
-- ``git clone https://github.com/Jerrypiglet/cse152b-hw1.git``
+- ``git clone https://github.com/Jerrypiglet/cse152b-hw1-release.git``
+- ``cd cse152b-hw1-release/``
 - Install dependencies (Python 3.X with Pip)
     - ``pip install -r requirements.txt --user``
 - Compile and install `pyviso` for the SfM question
