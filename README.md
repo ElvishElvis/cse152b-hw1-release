@@ -14,7 +14,7 @@
 6. **Due date:** Assignments are due Mon, May 4, by 4pm PST.
 
 ### Steps to access and complete homework
-- Clone this repository
+- Clone the homework repository
     - ``git clone https://github.com/Jerrypiglet/cse152b-hw1-release.git``
 - The homework is in the Jupyter Notebook ``hw1-CSE152B.ipynb``.
 - Follow the README (this file) for installation, data and compute instructions.
