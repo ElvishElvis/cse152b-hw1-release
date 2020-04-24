@@ -1,6 +1,6 @@
 # CSE152B HW1
 
-## 1. Homework instructions
+## 0. Homework instructions
 
 - Clone this repository
     - ``git clone https://github.com/Jerrypiglet/cse152b-hw1-release.git``
