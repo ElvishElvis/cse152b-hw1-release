@@ -42,9 +42,9 @@
     
 #### 2. [Option 2] On the ``ieng6.ucsd.edu`` server
 - (local) **(IMPORTANT) Connect your [UCSD VPN](https://blink.ucsd.edu/technology/network/connections/off-campus/VPN/index.html)**
-- Set up the environment following these [instructions](https://docs.google.com/document/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true)
 - (local) Login with your credentials
     - `ssh {USERNAME}@ieng6.ucsd.edu`
+- If you cannot launch a pod, set up the environment following these [instructions](https://docs.google.com/document/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true)
 - Launch your pod. You should enter a node with 1 GPU
     - ``launch-scipy-ml.sh -i ucsdets/cse152-252-notebook:latest -g 1``
 - You will be provided with a URL that you can open locally:
