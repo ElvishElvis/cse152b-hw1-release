@@ -1,7 +1,19 @@
 # CSE152B HW1
 
 ## 0. Homework instructions
+1. Attempt all questions.
+2. Please comment all your code adequately.
+3. Include all relevant information such as text answers, output images in notebook.
+4. **Academic integrity:** The homework must be completed individually.
 
+5. **Submission instructions:**  
+ (a) Submit the notebook and its PDF version on Gradescope.  
+ (b) Rename your submission files as Lastname_Firstname.ipynb and Lastname_Firstname.pdf.  
+ (c) Correctly select pages for each answer on Gradescope to allow proper grading.
+
+6. **Due date:** Assignments are due Mon, May 4, by 4pm PST.
+
+### Steps to access and complete homework
 - Clone this repository
     - ``git clone https://github.com/Jerrypiglet/cse152b-hw1-release.git``
 - The homework is in the Jupyter Notebook ``hw1-CSE152B.ipynb``.
